@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blueviolet;
+    display: block;
+    padding: 2rem;
+}
+
+h1 {
+    color: white;
+    font-size: 1rem;
+    font-weight: 100;
+    margin: -2rem 0 0 -2rem;
+}
+
+h2, h3 {
+    color: white;
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+aside, main {
+    display: block;
+    float: left;
+}
+
+aside {
+    background-color: rgb(0, 182, 0);
+    width: 30%;
+    padding-bottom: 27rem;
+}
+
+main {
+    background-color: rgb(255, 0, 0);
+    width: 70%;
+    padding-bottom: 27rem;
+}
+
+footer {
+    background-color: purple;
+    display: block;
+    padding-bottom: 3.35rem;
+}
